@@ -1,4 +1,4 @@
-﻿[build]
+[build]
   base = "sunflower-demo"
   command = "npm run build"
   publish = "out"
